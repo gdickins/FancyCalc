@@ -1,3 +1,10 @@
+body {
+  background: red; }
 
+.display {
+  background: black; }
+
+.button {
+  background: blue; }
 
 /*# sourceMappingURL=main.css.map */
