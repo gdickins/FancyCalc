@@ -1,9 +1,14 @@
-body {
-  background: red;
+.container {
+  display: flex;
+  border: 10px solid goldenrod;
+  height: 100vh;
+  flex-wrap: wrap;
 }
 .display {
   background: black;
+  width: 100%;
 }
 .button {
   background: blue;
+  width: 10%;
 }
